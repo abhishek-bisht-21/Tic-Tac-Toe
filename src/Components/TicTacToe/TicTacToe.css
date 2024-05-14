@@ -46,3 +46,8 @@
 	display: flex;
 	margin: auto;
 }
+
+
+.board img {
+	margin: 50px 50px;
+}
