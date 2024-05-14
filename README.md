@@ -33,4 +33,10 @@ To run this Tic Tac Toe game locally, follow these steps:
 
 	cd tic-tac-toe
 
+3. Install Dependencies
+
+	npm install
+
+4. npm start
+
 
