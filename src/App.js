@@ -1,9 +1,10 @@
-import logo from './logo.svg';
+import TicTacToe from './Components/TicTacToe/TicTacToe'; 
 import './App.css';
 
 function App() {
   return (
     <div>
+    <TicTacToe />
     </div>
   );
 }
